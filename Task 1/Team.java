@@ -3,8 +3,8 @@
 class Team{
 
 	private String teamName;  // 1c
-	private int teamsRank;  // 1d
-	private String players;  // 1e
+	private int rank;  // 1d
+	private String teamPlayers;  // 1e
 
 
 	Team (String teamName){
@@ -19,9 +19,6 @@ class Team{
 }
 
 
-public String setBalance(int amount) {
-	this.balance = amount;	
-	}
 
 
 /*

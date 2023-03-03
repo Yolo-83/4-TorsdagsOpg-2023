@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 
-
 class Main {    // 2a.
 
 	static int result = 67;
